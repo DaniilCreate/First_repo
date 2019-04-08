@@ -1,6 +1,0 @@
-print("Hello world! :);");
-print("Hello everebody;");
-print("Hello peoples;");
-print("Hello my dear friend;");
-printf("Glad to see you;");
-</html>

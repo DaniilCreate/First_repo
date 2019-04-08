@@ -1,2 +1,0 @@
-print ("Goodby world!");
-printf ("Goodby");
